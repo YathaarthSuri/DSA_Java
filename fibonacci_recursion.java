@@ -20,4 +20,4 @@ public class Solution {
         int n = scn.nextInt();
         System.out.println(fibonacci_recursion(n));
     }
-} 
+}
